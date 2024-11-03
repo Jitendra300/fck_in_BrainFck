@@ -9,5 +9,5 @@ Cause its fun, and I had no other thing to do...so yea settled for this...
 <br><br>
 
 # Future Projects:
-Make a Brainfreak compiler in Brainfreak
+Make a Brainfreak compiler in Brainfreak <br><br>
 Make a JIT compiler for Brainfreak
